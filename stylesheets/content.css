@@ -162,7 +162,7 @@ body {
 	margin-top: 0;
 	transform: rotate(-7.11deg);
 	background: #d6c0aa;
-	border: 2px solid #000;
+	border: 1px solid #000;
 }
 
 .history__block:nth-child(3) {
